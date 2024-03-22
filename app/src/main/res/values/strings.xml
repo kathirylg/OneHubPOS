@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomPrinterList</string>
+    <string name="lbl_online">Online</string>
+    <string name="lbl_offline">Offline</string>
+</resources>
